@@ -17,3 +17,4 @@ The files within the repo include the following:
 
 ***
 
+NOTE - the _do_not_use folder contains one SQL file which is the two above SQL files combined.
