@@ -1,7 +1,5 @@
 
-# sql-challenge
-
-This is the homework submittal for Assignment 9 - SQL Challenge.
+This repo contains SQL and Jupyter notebook documentation to assist with the analysis and organization of a company's employee database.
 ***
 ### Repo Contents
 The files within the repo include the following:
